@@ -1,13 +1,13 @@
-# PS.Á½´Î FTP ×÷Òµ¶¼Îª±¾³ÌÐò£¬ËùÒÔÖú½ÌÖ»Ðè¼ì²éÒ»¸ö¾Í¿ÉÒÔÁË
 
- - FTP ¿Í»§¶ËÓë·þÎñ¶Ë·ÖÀë£¬·þÎñ¶ËÔÚubuntuµÄPycharmÉÏÖ´ÐÐÍ¨¹ý
 
- - FTP ·þÎñ¶ËÓÐÁ©ÓÃ»§£¬·Ö±ðÎª zhaohu ºÍ test £¬ÃÜÂëÎª 123 £¬ ´ÅÅÌÅä¶î·Ö±ðÎª 100M ºÍ 10M£¨ÎÄ¼þÖÐÒÔ×Ö½Ú±íÊ¾£©,
-   ·þÎñ¶Ë¿É×Ô¶¨ÒåÓÃ»§ÐÅÏ¢£¬ÎÄ¼þÂ·¾¶ÔÚ FTP_Server/db/create_user.py
+ - FTP å®¢æˆ·ç«¯ä¸ŽæœåŠ¡ç«¯åˆ†ç¦»ï¼ŒæœåŠ¡ç«¯åœ¨ubuntuçš„Pycharmä¸Šæ‰§è¡Œé€šè¿‡
 
- - ÓÃ»§¾ùÓÐ×Ô¼ºµÄ¼ÒÄ¿Â¼£¬Îª²âÊÔ·½±ã£¬ÓÃ»§zhaohu¼ÒÄ¿Â¼ÏÂÓÐ 1 ºÍ 2 ¼°Æä×ÓÎÄ¼þ¼Ð
+ - FTP æœåŠ¡ç«¯æœ‰ä¿©ç”¨æˆ·ï¼Œåˆ†åˆ«ä¸º zhaohu å’Œ test ï¼Œå¯†ç ä¸º 123 ï¼Œ ç£ç›˜é…é¢åˆ†åˆ«ä¸º 100M å’Œ 10Mï¼ˆæ–‡ä»¶ä¸­ä»¥å­—èŠ‚è¡¨ç¤ºï¼‰,
+   æœåŠ¡ç«¯å¯è‡ªå®šä¹‰ç”¨æˆ·ä¿¡æ¯ï¼Œæ–‡ä»¶è·¯å¾„åœ¨ FTP_Server/db/create_user.py
 
- - ·þÎñ¶ËÖ§³ÖµÄÃüÁîÓÐ£º
+ - ç”¨æˆ·å‡æœ‰è‡ªå·±çš„å®¶ç›®å½•ï¼Œä¸ºæµ‹è¯•æ–¹ä¾¿ï¼Œç”¨æˆ·zhaohuå®¶ç›®å½•ä¸‹æœ‰ 1 å’Œ 2 åŠå…¶å­æ–‡ä»¶å¤¹
+
+ - æœåŠ¡ç«¯æ”¯æŒçš„å‘½ä»¤æœ‰ï¼š
 	ls/dir/du/df/uname/pwd/ifconfig/cd
 
- - ×÷ÒµÖÐµÄÒªÇó¾ù»ù±¾Ö§³Ö
+ - ä½œä¸šä¸­çš„è¦æ±‚å‡åŸºæœ¬æ”¯æŒ
